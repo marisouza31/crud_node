@@ -1,6 +1,4 @@
-# crud_node
-
-Tela Crud usando node.js:
+#Tela Crud usando node.js:
 
 <div align="center">
   
